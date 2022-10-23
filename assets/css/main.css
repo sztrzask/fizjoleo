@@ -2920,6 +2920,7 @@ ul.social li a.fa-google-plus:hover {
 		padding: 25px 15px 20px 15px;
 	}
 
+
 	.box .image.featured {
 		left: 15px;
 		top: 15px;
@@ -3063,4 +3064,21 @@ ul.social li a.fa-google-plus:hover {
 		padding: 40px 0 20px 0;
 	}
 
+}
+
+section.box p {
+	text-indent: 30px;
+}
+
+#timeprice table tr {
+	border:none;
+	background-color: rgba(224, 242, 241, 0.2);
+}
+
+#timeprice table .row-other{
+	background-color: #f1f8e9;
+}
+
+#timeprice .box{
+	height: 470px;
 }
