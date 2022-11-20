@@ -2420,7 +2420,7 @@ ul.social li a.fa-google-plus:hover {
 #footer {
 	position: relative;
 	color: #858484;
-	padding: 4em 0;
+	padding-top:4em;
 }
 
 #footer:before {
@@ -3081,4 +3081,21 @@ section.box p {
 
 #timeprice .box{
 	height: 470px;
+}
+
+.logo-centered{
+	display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.row.same-height .box{
+
+	height:100%;
+}
+
+.design-links{
+	display: flex;
+    justify-content: center;
+    font-size: 12px;
 }
