@@ -196,7 +196,7 @@ textarea,
 select {
 	font-family: 'Source Sans Pro';
 	font-weight: 300;
-	color: #5d5d5d;
+	color: #333333;
 	font-size: 14pt;
 	line-height: 1.75em;
 }
@@ -2227,7 +2227,7 @@ ul.social li a.fa-google-plus:hover {
 
 #nav>ul>li>a {
 	border-radius: 5px;
-	color: #5d5d5d;
+	color: #333333;
 	text-decoration: none;
 	padding: 0.6em 1.2em 0.6em 1.2em;
 	-moz-transition: background-color .25s ease-in-out;
