@@ -3081,7 +3081,7 @@ section.box p {
 }
 
 #timeprice .box{
-	height: 470px;
+	max-height: 470px;
 }
 
 .logo-centered{
