@@ -194,7 +194,7 @@ body,
 input,
 textarea,
 select {
-	font-family: 'Source Sans Pro';
+	font-family: auto;
 	font-weight: 300;
 	color: #333333;
 	font-size: 14pt;
